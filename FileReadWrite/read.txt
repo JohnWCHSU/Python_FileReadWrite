@@ -1,0 +1,7 @@
+# Python Program
+
+this is a test file for python file read/write!!
+
+English Test: Hello World!
+
+Chinese Test: 大家好!
